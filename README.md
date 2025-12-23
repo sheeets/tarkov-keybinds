@@ -8,13 +8,13 @@
 | Move backward      | S              | Not set | Unavailable |
 | Smooth lean right  | Lctrl + Mouse4 | Not set | Unavailable |
 | Smooth lean left   | Lctrl + E      | Not set | Unavailable |
-| Lean left          |
-| Lean right | | | |
-| Walk | | | |
-| Sprint | | | |
-| Jump | | | |
-| Vaulting | | | |
-| Crouch |
-| Prone |
-| Sidestep right |
-| Sidestep left |
+| Lean right         | Mouse4         | Not set | Continuous  |
+| Lean left          | E              | Not set | Continuous  |
+| Walk               | Caps           | Not set | Press       |
+| Sprint             | Lshift         | Not set | Continuous  |
+| Jump               | Space          | Not set | Press       |
+| Vaulting           | Lctrl + Space  | Not set | Continuous  |
+| Crouch             | C              | Not set | Press       |
+| Prone              | Z              | Not set | Press       |
+| Sidestep right     | Not set        | Not set | Not set     |
+| Sidestep left      | Not set        | Not set | Not set     |
