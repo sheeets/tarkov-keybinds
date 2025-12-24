@@ -1,3 +1,7 @@
+# Escape from Tarkov Keybinds
+
+- Add Control.ini to C:\Users\<USER>\AppData\Roaming\Battlestate Games\Escape from Tarkov\Settings
+
 | Action                             | Key                  | Key     | Press Type      |
 |------------------------------------|----------------------|---------|-----------------|
 | Move right                         | D                    | Not set | Unavailable     |
