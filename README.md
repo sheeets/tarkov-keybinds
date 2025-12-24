@@ -15,16 +15,16 @@
 | Walk                               | Caps                 | Not set | Press           |
 | Sprint                             | LShift               | Not set | Continuous      |
 | Jump                               | Space                | Not set | Press           |
-| Vaulting                           | Space                | Not set | Continuous      |
+| Vaulting                           | V                    | Not set | Continuous      |
 | Crouch                             | C                    | Not set | Press           |
 | Prone                              | Z                    | Not set | Press           |
 | Sidestep right                     | Not set              | Not set | Not set         |
 | Sidestep left                      | Not set              | Not set | Not set         |
-| Overhead blind fire                | LCtrl + W            | Not set | Unavailable     |
-| Right side blind fire              | LCtrl + S            | Not set | Unavailable     |
+| Overhead blind fire                | Not set              | Not set | Not set         |
+| Right side blind fire              | Not set              | Not set | Not set         |
 | Next walk pose                     | Mouse Scroll+ + C    | Not set | Unavailable     |
 | Previous walk pose                 | Mouse Scroll- + C    | Not set | Unavailable     |
-| Shoulder transition                | LCtrl + `            | Not set | Unavailable     |
+| Shoulder transition                | Not set              | Not set | Not set         |
 | Next                               | Mouse Scroll+        | Not set | Unavailable     |
 | Previous                           | Mouse Scroll-        | Not set | Unavailable     |
 | Mount weapon                       | H                    | Not set | Double click    |
